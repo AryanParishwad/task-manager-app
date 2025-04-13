@@ -148,7 +148,7 @@ Once both the backend and frontend servers are running:
 
 ## 🖥️ Live Demo
 
-A live version of the application is deployed and can be accessed here: [Live Demo Link]([https://your-deployment-link.com](https://fastidious-chaja-72d16b.netlify.app/))
+A live version of the application is deployed and can be accessed here: [Live Demo Link](https://fastidious-chaja-72d16b.netlify.app/)
 
 ## 🤝 Contributing
 
