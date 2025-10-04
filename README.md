@@ -26,6 +26,8 @@ A sleek and professional web-based task management application that allows users
   - Git: Version control system.
   - GitHub: Hosting the repository and facilitating collaboration.
 
+Project Status Note: The core CRUD functionalities, RESTful API architecture, and database integration for this project are complete. The JWT authentication and authorization feature is currently in a separate development branch and is being refactored for improved security before being merged into main.
+
 ## 📁 Project Structure
 
 ```plaintext
